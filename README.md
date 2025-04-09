@@ -32,7 +32,7 @@ The platform leverages Apache Spark for scalable data processing and machine lea
 ### Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/oceaninsight.git
+   git clone https://github.com/hsn07pk/oceaninsight.git
    cd oceaninsight
    ```
 
@@ -85,7 +85,7 @@ The platform builds and evaluates multiple models:
 ## Citation
 If you use this code in your research, please cite:
 ```
-Author Name. (2025). OceanInsight: Argo Float Analysis Platform. GitHub repository. https://github.com/yourusername/oceaninsight
+Author Name. (2025). OceanInsight: Argo Float Analysis Platform. GitHub repository. https://github.com/hsn07pk/oceaninsight
 ```
 
 ## License
